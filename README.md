@@ -14,12 +14,11 @@ A list of resources, books and references about Scheme.
 
 ### Books
 
-- [Structure and Interpretation of Computer Programs 2ed](https://mitpress.mit.edu/sites/default/files/6515.pdf) - A prime example of a masterpiece. A great intro to Computer science and a really good practice for learning Scheme. Highly recommended
-- [List item](http://example.com)
+- [Structure and Interpretation of Computer Programs 2ed](https://mitpress.mit.edu/sites/default/files/6515.pdf) - A prime example of a masterpiece. A great intro to Computer science and a really good practice for learning Scheme. Highly recommended.
 
 ### Videos
 
-- [Structure and Interpretation of Computer Programs] (https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/) - Twenty video lectures by Hal Abelson and Gerald Jay Sussman are a complete presentation of the course of Structure and Interpretation of Computer Programs. Must see!
+- [Structure and Interpretation of Computer Programs](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/) - Twenty video lectures by Hal Abelson and Gerald Jay Sussman are a complete presentation of the course of Structure and Interpretation of Computer Programs. Must see!
 
 ### Websites
 - [Schemers](http://www.schemers.org/) - The improper list of Scheme resources. A prime reference site.
