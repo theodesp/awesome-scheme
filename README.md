@@ -22,7 +22,7 @@ A list of resources, books and references about Scheme.
 
 ### Websites
 - [Schemers](http://www.schemers.org/) - The improper list of Scheme resources. A prime reference site.
-
+- [SRFI](https://srfi.schemers.org/) - Scheme requests for implementation.
 ### Implementations
 - [Chicken Scheme](https://www.call-cc.org/) - Portable Scheme Compiler that works well. Has nice documentation and active support.
 
