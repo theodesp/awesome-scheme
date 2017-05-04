@@ -8,7 +8,7 @@
 - [Resources](#resources)
 
 
-## Another Section
+## Resources
 
 A list of resources, books and references about Scheme.
 
@@ -21,7 +21,8 @@ A list of resources, books and references about Scheme.
 
 - [Structure and Interpretation of Computer Programs] (https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/) - Twenty video lectures by Hal Abelson and Gerald Jay Sussman are a complete presentation of the course of Structure and Interpretation of Computer Programs. Must see!
 
-
+### Websites
+- [Schemers](http://www.schemers.org/) - The improper list of Scheme resources. A prime reference site.
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
