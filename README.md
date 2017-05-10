@@ -29,10 +29,12 @@ A list of resources, books and references about Scheme.
 - [r5rs](http://groups.csail.mit.edu/mac/ftpdir/scheme-reports/r5rs-html/r5rs_toc.html) - The official Scheme language definition and reference
 
 ### Implementations
+- [Racket Lang](https://racket-lang.org/) - The most confortable enviroment to start working with Scheme. It offers great documentation and great Ides. Highly Recommended.
 - [Chicken Scheme](https://www.call-cc.org/) - Portable Scheme Compiler that works well. Has nice documentation and active support.
 - [Gambit Scheme](http://gambitscheme.org/wiki/index.php/Main_Page) - Another complete, portable, efficient and reliable implementation.
 - [Schibi Scheme](http://synthcode.com/wiki/chibi-scheme) - Minimal Scheme Implementation for use as an Extension Language
 - [Guile Scheme](https://www.gnu.org/software/guile/) - Gnus Scheme Implementation and Programming environment
+- [Kawa Scheme](https://www.gnu.org/software/kawa/index.html) - Runs on the JVM. Part of the Kawa language Framework
 
 ## Contribute
 
