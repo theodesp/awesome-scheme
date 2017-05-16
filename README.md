@@ -4,9 +4,13 @@
 
 
 ## Contents
-
+- Frameworks(#frameworks)
 - [Resources](#resources)
 
+## Frameworks
+A list of Frameworks for Scheme.
+
+- [Artanis](https://gitlab.com/NalaGinrut/artanis) - GNU Artanis aims to be a web application framework for Scheme.
 
 ## Resources
 
@@ -15,8 +19,9 @@ A list of resources, books and references about Scheme.
 ### Books
 
 - [Structure and Interpretation of Computer Programs 2ed](https://mitpress.mit.edu/sites/default/files/6515.pdf) - A prime example of a masterpiece. A great intro to Computer science and a really good practice for learning Scheme. Highly recommended.
-- [An Introduction to Scheme and its Implementation](ftp://ftp.cs.utexas.edu/pub/garbage/cs345/schintro-v14/schintro_toc.html) - Learn and use scheme. Great Resource
-- [Teach Yourself Scheme](http://ds26gte.github.io/tyscheme/index.html) - Nice Scheme tutorial
+- [An Introduction to Scheme and its Implementation] - ftp://ftp.cs.utexas.edu/pub/garbage/cs345/schintro-v14/schintro_toc.html - Learn and use scheme. Great Resource.
+- [The Scheme Programming Language 4ed](http://www.scheme.com/tspl4/) - Prime reference book.
+- [Teach Yourself Scheme](http://ds26gte.github.io/tyscheme/index.html) - Nice Scheme tutorial.
 
 ### Videos
 
@@ -24,9 +29,12 @@ A list of resources, books and references about Scheme.
 
 ### Websites
 - [Schemers](http://www.schemers.org/) - The improper list of Scheme resources. A prime reference site.
+- [Community Scheme Wiki](http://community.schemewiki.org/?) - Wiki page for Scheme.
 - [SRFI](https://srfi.schemers.org/) - Scheme requests for implementation.
 - [The Adventures of a Pythonista in Schemeland](http://www.artima.com/weblogs/viewpost.jsp?thread=251474) - Tutorial for scheme targeted for Python Developers.
 - [r5rs](http://groups.csail.mit.edu/mac/ftpdir/scheme-reports/r5rs-html/r5rs_toc.html) - The official Scheme language definition and reference.
+- [Scheme Repl](https://repl.it/languages/scheme) - Online Scheme REPL.
+- [Reddit handle](https://www.reddit.com/r/scheme/) - Reddit page on Scheme.
 
 ### Implementations
 - [Racket Lang](https://racket-lang.org/) - The most confortable enviroment to start working with Scheme. It offers great documentation and an awesome IDE. Highly Recommended.
