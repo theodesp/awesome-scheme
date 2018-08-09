@@ -19,7 +19,8 @@ A list of resources, books and references about Scheme.
 ### Books
 
 - [Structure and Interpretation of Computer Programs 2ed](https://mitpress.mit.edu/sites/default/files/6515.pdf) - A prime example of a masterpiece. A great intro to Computer science and a really good practice for learning Scheme. Highly recommended.
-- [An Introduction to Scheme and its Implementation] - ftp://ftp.cs.utexas.edu/pub/garbage/cs345/schintro-v14/schintro_toc.html - Learn and use scheme. Great Resource.
+<!-- trick for github not render --><!-- - [An Introduction to Scheme and its Implementation] - ftp://ftp.cs.utexas.edu/pub/garbage/cs345/schintro-v14/schintro_toc.html - Learn and use scheme. Great Resource. -->
+- [An Introduction to Scheme and its Implementation](https://link.zhihu.com/?target=ftp://ftp.cs.utexas.edu/pub/garbage/cs345/schintro-v14/schintro_toc.html) - Learn and use scheme. Great Resource.
 - [The Scheme Programming Language 4ed](http://www.scheme.com/tspl4/) - Prime reference book.
 - [Teach Yourself Scheme](http://ds26gte.github.io/tyscheme/index.html) - Nice Scheme tutorial.
 
