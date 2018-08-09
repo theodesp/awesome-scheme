@@ -39,6 +39,7 @@ A list of resources, books and references about Scheme.
 
 ### Implementations
 - [Racket Lang](https://racket-lang.org/) - The most confortable enviroment to start working with Scheme. It offers great documentation and an awesome IDE. Highly Recommended.
+- [Chez Scheme](https://www.scheme.com/) - The world's fastest and most reliable implementation of Scheme, originally developed by Kent Dybvig, bought and open-sourced by Cisco. It has built Racket's compiler+JIT & GC too, by project Racket-on-Chez.
 - [Chicken Scheme](https://www.call-cc.org/) - Portable Scheme Compiler that works well. Has nice documentation and active support.
 - [Gambit Scheme](http://gambitscheme.org/wiki/index.php/Main_Page) - Another complete, portable, efficient and reliable implementation.
 - [Schibi Scheme](http://synthcode.com/wiki/chibi-scheme) - Minimal Scheme Implementation for use as an Extension Language.
