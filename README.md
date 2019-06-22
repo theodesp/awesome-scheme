@@ -6,6 +6,12 @@
 ## Contents
 - [Frameworks](#frameworks)
 - [Resources](#resources)
+- [Languages](#languages)
+
+## Languages
+A list of Languages implemented in Scheme.
+
+- [Pie](https://docs.racket-lang.org/pie/index.html) - Pie is a little language with dependent types that accompanies [The Little Typer](http://thelittletyper.com/).
 
 ## Frameworks
 A list of Frameworks for Scheme.
